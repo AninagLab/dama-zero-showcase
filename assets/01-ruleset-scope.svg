@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="432pt" viewBox="0 0 864 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-09T15:05:10.436300</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 432 
+L 864 432 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f2f4f6"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-size: 27px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #1a1d21" x="36" y="46.8" transform="rotate(-0 36 46.8)">From one ruleset to six</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #717880" x="36" y="77.76" transform="rotate(-0 36 77.76)">Dama Zero · two completed experiments</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 19px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #1a1d21" x="36" y="154.8" transform="rotate(-0 36 154.8)">Filipino specialist</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #717880" x="36" y="187.2" transform="rotate(-0 36 187.2)">120,000 self-play games</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 282.802368 159.84 
+Q 327.601851 159.84 370.388872 159.84 
+" style="fill: none; stroke: #1a1d21; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 366.388872 157.84 
+L 370.388872 159.84 
+L 366.388872 161.84 
+" style="fill: none; stroke: #1a1d21; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 17px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #1a1d21" x="403.2" y="128.16" transform="rotate(-0 403.2 128.16)">One network · 150,000 self-play games</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #1a1d21" x="403.2" y="169.2" transform="rotate(-0 403.2 169.2)">01   Filipino: pass-through crowning</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #1a1d21" x="403.2" y="202.32" transform="rotate(-0 403.2 202.32)">02   Filipino: crown and continue</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #1a1d21" x="403.2" y="235.44" transform="rotate(-0 403.2 235.44)">03   Filipino: crown and end</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #1a1d21" x="403.2" y="268.56" transform="rotate(-0 403.2 268.56)">04   Brazilian</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #1a1d21" x="403.2" y="301.68" transform="rotate(-0 403.2 301.68)">05   Russian</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 14px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #1a1d21" x="403.2" y="334.8" transform="rotate(-0 403.2 334.8)">06   Spanish</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 12px; font-family: 'Helvetica Neue', 'DejaVu Sans'; text-anchor: start; fill: #717880" x="36" y="394.56" transform="rotate(-0 36 394.56)">Three Filipino crowning interpretations + three additional national rulesets.</text>
+   </g>
+  </g>
+ </g>
+</svg>
